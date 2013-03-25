@@ -13,6 +13,7 @@
  */
 int main(int argc, char** argv) {
     printf("hola mundo");
+    printf("realizado en otra pc");
     return (EXIT_SUCCESS);
 }
 
